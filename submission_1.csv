@@ -1,0 +1,4001 @@
+id,label_text
+1,alarm_remove
+2,calendar_query
+3,extra_charge_on_statement
+4,lost_or_stolen_card
+5,age_limit
+6,play_music
+7,iot_cleaning
+8,iot
+9,alarm_query
+10,card_acceptance
+11,alarm
+12,not toxic
+13,card_payment_fee_charged
+14,calendar_query
+15,news
+16,iot_hue_lightoff
+17,not toxic
+18,supported_cards_and_currencies
+19,card_payment_wrong_exchange_rate
+20,not toxic
+21,balance_not_updated_after_cheque_or_cash_deposit
+22,alarm_remove
+23,toxic
+24,not toxic
+25,weather_query
+26,not toxic
+27,not toxic
+28,music_query
+29,not toxic
+30,not toxic
+31,weather
+32,news_query
+33,not toxic
+34,iot
+35,card_not_working
+36,iot
+37,toxic
+38,not toxic
+39,not toxic
+40,alarm_query
+41,balance_not_updated_after_cheque_or_cash_deposit
+42,play_music
+43,transfer_not_received_by_recipient
+44,alarm_set
+45,play_audiobook
+46,datetime
+47,alarm_set
+48,pending_cash_withdrawal
+49,play_music
+50,card_payment_not_recognised
+51,extra_charge_on_statement
+52,not toxic
+53,toxic
+54,not toxic
+55,general
+56,play_music
+57,contactless_not_working
+58,iot
+59,music
+60,extra_charge_on_statement
+61,not toxic
+62,transfer_not_received_by_recipient
+63,news_query
+64,news_query
+65,top_up_reverted
+66,age_limit
+67,transfer_not_received_by_recipient
+68,datetime_query
+69,why_verify_identity
+70,iot_coffee
+71,not toxic
+72,toxic
+73,top_up_limits
+74,datetime_query
+75,audio_volume_mute
+76,not toxic
+77,alarm_set
+78,card_linking
+79,not toxic
+80,not toxic
+81,toxic
+82,card_payment_fee_charged
+83,general
+84,not toxic
+85,toxic
+86,toxic
+87,not toxic
+88,not toxic
+89,general
+90,card_payment_not_recognised
+91,card_linking
+92,card_payment_fee_charged
+93,datetime_query
+94,takeaway
+95,not toxic
+96,not toxic
+97,news_query
+98,supported_cards_and_currencies
+99,not toxic
+100,unable_to_verify_identity
+101,takeaway_query
+102,not toxic
+103,not toxic
+104,card_not_working
+105,why_verify_identity
+106,datetime
+107,why_verify_identity
+108,not toxic
+109,toxic
+110,not toxic
+111,getting_virtual_card
+112,iot_wemo_off
+113,news_query
+114,news_query
+115,why_verify_identity
+116,transfer_not_received_by_recipient
+117,exchange_rate
+118,play_music
+119,not toxic
+120,cancel_transfer
+121,alarm_query
+122,general
+123,toxic
+124,top_up_limits
+125,not toxic
+126,news_query
+127,music
+128,weather_query
+129,cancel_transfer
+130,news_query
+131,automatic_top_up
+132,why_verify_identity
+133,iot
+134,card_delivery_estimate
+135,pin_blocked
+136,not toxic
+137,alarm_remove
+138,supported_cards_and_currencies
+139,alarm
+140,not toxic
+141,music
+142,general
+143,toxic
+144,lost_or_stolen_card
+145,not toxic
+146,qa
+147,not toxic
+148,pending_cash_withdrawal
+149,takeaway_query
+150,alarm
+151,play_music
+152,takeaway_query
+153,calendar_query
+154,edit_personal_details
+155,fiat_currency_support
+156,toxic
+157,card_acceptance
+158,not toxic
+159,contactless_not_working
+160,news_query
+161,card_delivery_estimate
+162,wrong_amount_of_cash_received
+163,card_delivery_estimate
+164,toxic
+165,card_payment_not_recognised
+166,not toxic
+167,weather_query
+168,card_acceptance
+169,calendar_query
+170,takeaway_query
+171,general
+172,not toxic
+173,iot
+174,card_not_working
+175,not toxic
+176,general_joke
+177,datetime
+178,not toxic
+179,not toxic
+180,audio_volume_mute
+181,iot
+182,play_music
+183,alarm_query
+184,takeaway
+185,iot_cleaning
+186,not toxic
+187,datetime_query
+188,play_music
+189,iot
+190,general_joke
+191,transfer_not_received_by_recipient
+192,cancel_transfer
+193,recommendation_movies
+194,alarm_set
+195,toxic
+196,card_arrival
+197,alarm
+198,card_payment_wrong_exchange_rate
+199,weather_query
+200,news_query
+201,alarm_remove
+202,card_linking
+203,card_acceptance
+204,not toxic
+205,iot
+206,news
+207,card_payment_wrong_exchange_rate
+208,toxic
+209,calendar_query
+210,cancel_transfer
+211,news_query
+212,fiat_currency_support
+213,music
+214,play_music
+215,datetime
+216,not toxic
+217,card_payment_fee_charged
+218,alarm_remove
+219,cancel_transfer
+220,alarm_set
+221,not toxic
+222,toxic
+223,audio_volume_up
+224,wrong_amount_of_cash_received
+225,not toxic
+226,music
+227,not toxic
+228,wrong_amount_of_cash_received
+229,exchange_rate
+230,not toxic
+231,pending_cash_withdrawal
+232,iot_hue_lightup
+233,weather_query
+234,fiat_currency_support
+235,general
+236,not toxic
+237,automatic_top_up
+238,not toxic
+239,weather_query
+240,alarm
+241,card_payment_wrong_exchange_rate
+242,general
+243,news_query
+244,datetime_query
+245,play_audiobook
+246,play_music
+247,general_joke
+248,play
+249,play_music
+250,calendar_query
+251,weather_query
+252,cancel_transfer
+253,iot_cleaning
+254,iot
+255,weather_query
+256,pending_cash_withdrawal
+257,play_radio
+258,alarm
+259,takeaway_query
+260,not toxic
+261,news_query
+262,not toxic
+263,news_query
+264,pin_blocked
+265,iot_hue_lightoff
+266,card_arrival
+267,play_music
+268,not toxic
+269,play_audiobook
+270,play_music
+271,play_music
+272,not toxic
+273,cancel_transfer
+274,weather_query
+275,takeaway_query
+276,card_acceptance
+277,automatic_top_up
+278,alarm
+279,calendar_query
+280,alarm_remove
+281,general
+282,not toxic
+283,card_payment_not_recognised
+284,calendar_query
+285,play_music
+286,exchange_rate
+287,lost_or_stolen_card
+288,datetime_query
+289,automatic_top_up
+290,alarm_set
+291,calendar_query
+292,music
+293,play_music
+294,music
+295,general
+296,news_query
+297,music
+298,not toxic
+299,pending_cash_withdrawal
+300,play_music
+301,iot
+302,play_music
+303,music
+304,general
+305,not toxic
+306,audio_volume_up
+307,general
+308,datetime
+309,toxic
+310,not toxic
+311,wrong_amount_of_cash_received
+312,pending_cash_withdrawal
+313,play_music
+314,datetime_query
+315,takeaway
+316,general_joke
+317,not toxic
+318,takeaway
+319,wrong_amount_of_cash_received
+320,pin_blocked
+321,card_acceptance
+322,not toxic
+323,not toxic
+324,edit_personal_details
+325,not toxic
+326,play_music
+327,news_query
+328,takeaway_query
+329,cancel_transfer
+330,datetime_convert
+331,not toxic
+332,alarm_set
+333,takeaway_query
+334,card_linking
+335,cancel_transfer
+336,card_payment_not_recognised
+337,general_joke
+338,iot
+339,datetime_query
+340,pin_blocked
+341,top_up_limits
+342,contactless_not_working
+343,alarm_set
+344,pin_blocked
+345,card_acceptance
+346,not toxic
+347,toxic
+348,alarm_query
+349,weather_query
+350,not toxic
+351,pin_blocked
+352,news_query
+353,toxic
+354,extra_charge_on_statement
+355,datetime
+356,play_audiobook
+357,iot
+358,calendar_query
+359,not toxic
+360,play_music
+361,news_query
+362,not toxic
+363,takeaway
+364,toxic
+365,transport_query
+366,not toxic
+367,general_joke
+368,getting_virtual_card
+369,audio_volume_up
+370,music_query
+371,news_query
+372,lost_or_stolen_card
+373,not toxic
+374,toxic
+375,calendar_query
+376,news_query
+377,calendar_query
+378,lost_or_stolen_card
+379,audio_volume_mute
+380,iot
+381,iot
+382,getting_virtual_card
+383,alarm_set
+384,weather_query
+385,general
+386,not toxic
+387,toxic
+388,not toxic
+389,getting_virtual_card
+390,takeaway_query
+391,takeaway_query
+392,not toxic
+393,cancel_transfer
+394,pending_cash_withdrawal
+395,news_query
+396,datetime_query
+397,toxic
+398,iot
+399,play
+400,general
+401,card_acceptance
+402,datetime
+403,datetime
+404,card_payment_not_recognised
+405,news_query
+406,music
+407,not toxic
+408,card_not_working
+409,transfer_not_received_by_recipient
+410,card_payment_wrong_exchange_rate
+411,not toxic
+412,iot
+413,alarm_remove
+414,not toxic
+415,audio_volume_mute
+416,card_arrival
+417,takeaway_query
+418,balance_not_updated_after_cheque_or_cash_deposit
+419,contactless_not_working
+420,toxic
+421,alarm_query
+422,play_music
+423,not toxic
+424,not toxic
+425,weather_query
+426,toxic
+427,not toxic
+428,toxic
+429,takeaway_query
+430,pending_cash_withdrawal
+431,balance_not_updated_after_cheque_or_cash_deposit
+432,edit_personal_details
+433,not toxic
+434,alarm_remove
+435,toxic
+436,music
+437,calendar_query
+438,wrong_amount_of_cash_received
+439,supported_cards_and_currencies
+440,not toxic
+441,not toxic
+442,calendar_query
+443,weather_query
+444,weather_query
+445,iot
+446,calendar_query
+447,not toxic
+448,unable_to_verify_identity
+449,toxic
+450,pin_blocked
+451,toxic
+452,calendar_query
+453,pending_cash_withdrawal
+454,alarm_remove
+455,supported_cards_and_currencies
+456,cancel_transfer
+457,getting_virtual_card
+458,general
+459,supported_cards_and_currencies
+460,card_not_working
+461,calendar_query
+462,card_payment_not_recognised
+463,lost_or_stolen_card
+464,card_linking
+465,not toxic
+466,lost_or_stolen_card
+467,takeaway
+468,play_music
+469,iot
+470,weather_query
+471,weather_query
+472,card_not_working
+473,alarm_set
+474,iot_hue_lightdim
+475,play_music
+476,supported_cards_and_currencies
+477,card_payment_not_recognised
+478,music
+479,weather_query
+480,age_limit
+481,iot
+482,play_music
+483,pending_cash_withdrawal
+484,toxic
+485,datetime
+486,play_music
+487,pending_top_up
+488,age_limit
+489,play_music
+490,not toxic
+491,general
+492,calendar_query
+493,not toxic
+494,iot
+495,automatic_top_up
+496,news_query
+497,play_audiobook
+498,takeaway
+499,general
+500,not toxic
+501,alarm_remove
+502,card_acceptance
+503,not toxic
+504,datetime_query
+505,pin_blocked
+506,card_payment_fee_charged
+507,pending_top_up
+508,fiat_currency_support
+509,iot
+510,alarm_set
+511,not toxic
+512,news
+513,weather_query
+514,not toxic
+515,music
+516,takeaway
+517,exchange_via_app
+518,alarm_set
+519,card_arrival
+520,not toxic
+521,exchange_via_app
+522,cancel_transfer
+523,news_query
+524,play_music
+525,news_query
+526,not toxic
+527,not toxic
+528,takeaway_order
+529,news
+530,automatic_top_up
+531,calendar
+532,pending_cash_withdrawal
+533,play_music
+534,play_music
+535,takeaway
+536,weather
+537,card_payment_not_recognised
+538,alarm_query
+539,top_up_limits
+540,not toxic
+541,music_query
+542,iot_hue_lightoff
+543,weather_query
+544,cancel_transfer
+545,not toxic
+546,general
+547,not toxic
+548,card_payment_not_recognised
+549,play_music
+550,calendar_query
+551,takeaway_query
+552,balance_not_updated_after_cheque_or_cash_deposit
+553,play_music
+554,not toxic
+555,alarm
+556,news_query
+557,general
+558,calendar
+559,news_query
+560,cancel_transfer
+561,exchange_rate
+562,card_linking
+563,music
+564,takeaway
+565,pending_cash_withdrawal
+566,play_music
+567,not toxic
+568,general
+569,music
+570,not toxic
+571,weather
+572,not toxic
+573,not toxic
+574,not toxic
+575,weather
+576,news_query
+577,card_payment_fee_charged
+578,iot
+579,play
+580,not toxic
+581,not toxic
+582,datetime
+583,play_music
+584,toxic
+585,not toxic
+586,takeaway_query
+587,news
+588,datetime_query
+589,takeaway_query
+590,pending_top_up
+591,recommendation_movies
+592,takeaway
+593,cancel_transfer
+594,edit_personal_details
+595,recommendation
+596,datetime_query
+597,play_music
+598,toxic
+599,datetime
+600,cancel_transfer
+601,not toxic
+602,news_query
+603,not toxic
+604,top_up_by_bank_transfer_charge
+605,datetime_convert
+606,card_delivery_estimate
+607,alarm_remove
+608,alarm
+609,card_payment_wrong_exchange_rate
+610,general
+611,pin_blocked
+612,toxic
+613,card_payment_not_recognised
+614,general_joke
+615,getting_virtual_card
+616,iot_hue_lightup
+617,play_music
+618,not toxic
+619,card_not_working
+620,getting_virtual_card
+621,not toxic
+622,alarm
+623,datetime
+624,not toxic
+625,toxic
+626,iot_cleaning
+627,card_delivery_estimate
+628,alarm_set
+629,not toxic
+630,play_music
+631,play_audiobook
+632,card_payment_not_recognised
+633,wrong_amount_of_cash_received
+634,weather_query
+635,calendar_query
+636,toxic
+637,iot
+638,general
+639,alarm_set
+640,alarm_set
+641,not toxic
+642,datetime
+643,toxic
+644,not toxic
+645,not toxic
+646,cancel_transfer
+647,play_music
+648,pending_cash_withdrawal
+649,recommendation_locations
+650,play_music
+651,music
+652,balance_not_updated_after_cheque_or_cash_deposit
+653,audio_volume_mute
+654,general
+655,alarm_query
+656,iot_cleaning
+657,extra_charge_on_statement
+658,audio
+659,automatic_top_up
+660,card_linking
+661,pending_cash_withdrawal
+662,calendar_query
+663,extra_charge_on_statement
+664,transfer_not_received_by_recipient
+665,card_delivery_estimate
+666,alarm_remove
+667,play_audiobook
+668,weather_query
+669,news
+670,pending_top_up
+671,general
+672,not toxic
+673,iot
+674,not toxic
+675,news_query
+676,card_not_working
+677,not toxic
+678,play_music
+679,not toxic
+680,card_payment_not_recognised
+681,not toxic
+682,not toxic
+683,play_music
+684,not toxic
+685,news
+686,supported_cards_and_currencies
+687,iot_hue_lightoff
+688,not toxic
+689,takeaway_query
+690,not toxic
+691,calendar_query
+692,automatic_top_up
+693,calendar_query
+694,news
+695,exchange_via_app
+696,play_music
+697,card_payment_fee_charged
+698,card_payment_not_recognised
+699,lost_or_stolen_card
+700,datetime
+701,not toxic
+702,datetime
+703,toxic
+704,not toxic
+705,pin_blocked
+706,play_music
+707,pending_cash_withdrawal
+708,cancel_transfer
+709,takeaway
+710,top_up_reverted
+711,play_music
+712,not toxic
+713,music
+714,audio_volume_mute
+715,lost_or_stolen_card
+716,weather_query
+717,news_query
+718,weather_query
+719,not toxic
+720,datetime_query
+721,play
+722,toxic
+723,not toxic
+724,datetime_query
+725,play_music
+726,play_music
+727,extra_charge_on_statement
+728,weather_query
+729,recommendation
+730,not toxic
+731,general_quirky
+732,iot_cleaning
+733,not toxic
+734,toxic
+735,alarm_set
+736,general
+737,weather_query
+738,not toxic
+739,pending_cash_withdrawal
+740,lost_or_stolen_card
+741,pending_top_up
+742,play_music
+743,news
+744,music
+745,card_payment_not_recognised
+746,getting_virtual_card
+747,alarm
+748,weather_query
+749,calendar_query
+750,not toxic
+751,card_payment_not_recognised
+752,not toxic
+753,not toxic
+754,audio_volume_mute
+755,news_query
+756,audio_volume_mute
+757,recommendation
+758,transfer_not_received_by_recipient
+759,cancel_transfer
+760,general
+761,card_delivery_estimate
+762,alarm_query
+763,alarm_set
+764,not toxic
+765,not toxic
+766,alarm
+767,toxic
+768,takeaway
+769,alarm_query
+770,music_likeness
+771,takeaway_query
+772,not toxic
+773,card_delivery_estimate
+774,alarm_set
+775,calendar_query
+776,not toxic
+777,card_payment_not_recognised
+778,datetime_query
+779,iot
+780,calendar
+781,alarm
+782,calendar_query
+783,not toxic
+784,card_acceptance
+785,not toxic
+786,card_payment_not_recognised
+787,general
+788,iot
+789,not toxic
+790,lost_or_stolen_card
+791,not toxic
+792,play_music
+793,general
+794,contactless_not_working
+795,iot
+796,lost_or_stolen_card
+797,top_up_limits
+798,play_music
+799,transfer_not_received_by_recipient
+800,audio_volume_down
+801,iot
+802,not toxic
+803,getting_virtual_card
+804,edit_personal_details
+805,lost_or_stolen_card
+806,not toxic
+807,iot
+808,not toxic
+809,card_arrival
+810,calendar_query
+811,not toxic
+812,iot_coffee
+813,not toxic
+814,wrong_amount_of_cash_received
+815,music_query
+816,top_up_by_bank_transfer_charge
+817,calendar
+818,calendar
+819,audio
+820,alarm_query
+821,card_acceptance
+822,iot
+823,weather_query
+824,not toxic
+825,iot
+826,card_not_working
+827,alarm_set
+828,takeaway_query
+829,transport_query
+830,news_query
+831,not toxic
+832,weather_query
+833,calendar_query
+834,play_music
+835,weather_query
+836,recommendation_locations
+837,weather_query
+838,datetime
+839,news_query
+840,iot
+841,not toxic
+842,weather_query
+843,datetime
+844,not toxic
+845,card_arrival
+846,weather_query
+847,pending_cash_withdrawal
+848,alarm
+849,not toxic
+850,news_query
+851,card_payment_not_recognised
+852,music_query
+853,pin_blocked
+854,iot
+855,alarm_set
+856,pending_cash_withdrawal
+857,alarm_query
+858,takeaway_query
+859,not toxic
+860,calendar_query
+861,cancel_transfer
+862,general
+863,news_query
+864,not toxic
+865,play_music
+866,weather_query
+867,general
+868,card_not_working
+869,card_payment_fee_charged
+870,exchange_rate
+871,iot
+872,alarm_remove
+873,contactless_not_working
+874,iot_hue_lighton
+875,takeaway_query
+876,takeaway_query
+877,card_payment_fee_charged
+878,not toxic
+879,not toxic
+880,play_music
+881,not toxic
+882,toxic
+883,play_music
+884,music
+885,not toxic
+886,exchange_via_app
+887,play_music
+888,general
+889,audio_volume_mute
+890,weather_query
+891,pin_blocked
+892,general
+893,cancel_transfer
+894,toxic
+895,news_query
+896,toxic
+897,play_music
+898,audio_volume_mute
+899,play_music
+900,card_delivery_estimate
+901,contactless_not_working
+902,balance_not_updated_after_cheque_or_cash_deposit
+903,balance_not_updated_after_cheque_or_cash_deposit
+904,news_query
+905,iot
+906,calendar_query
+907,weather_query
+908,news_query
+909,automatic_top_up
+910,audio_volume_mute
+911,not toxic
+912,datetime_query
+913,card_not_working
+914,takeaway_query
+915,audio_volume_down
+916,pending_top_up
+917,news_query
+918,transfer_not_received_by_recipient
+919,card_payment_not_recognised
+920,card_delivery_estimate
+921,not toxic
+922,not toxic
+923,takeaway
+924,toxic
+925,iot
+926,not toxic
+927,age_limit
+928,Error
+929,play_music
+930,calendar_query
+931,not toxic
+932,weather_query
+933,datetime
+934,supported_cards_and_currencies
+935,music
+936,iot
+937,play
+938,music
+939,takeaway_query
+940,unable_to_verify_identity
+941,not toxic
+942,takeaway_query
+943,datetime_query
+944,not toxic
+945,iot
+946,general
+947,not toxic
+948,weather_query
+949,not toxic
+950,datetime_query
+951,alarm_query
+952,alarm_set
+953,news_query
+954,music
+955,play_music
+956,takeaway_query
+957,general
+958,getting_virtual_card
+959,iot_hue_lightoff
+960,weather_query
+961,why_verify_identity
+962,not toxic
+963,play_music
+964,not toxic
+965,play
+966,music_dislikeness
+967,alarm_query
+968,iot
+969,datetime_query
+970,alarm_query
+971,general
+972,card_payment_wrong_exchange_rate
+973,transfer_not_received_by_recipient
+974,not toxic
+975,general
+976,calendar_query
+977,extra_charge_on_statement
+978,not toxic
+979,wrong_amount_of_cash_received
+980,takeaway_query
+981,card_payment_fee_charged
+982,weather_query
+983,not toxic
+984,not toxic
+985,takeaway
+986,wrong_amount_of_cash_received
+987,iot_cleaning
+988,not toxic
+989,not toxic
+990,datetime_query
+991,alarm_set
+992,datetime
+993,takeaway
+994,alarm_set
+995,calendar
+996,top_up_by_bank_transfer_charge
+997,pending_cash_withdrawal
+998,card_payment_not_recognised
+999,datetime
+1000,news_query
+1001,play_music
+1002,lost_or_stolen_card
+1003,not toxic
+1004,not toxic
+1005,card_not_working
+1006,card_not_working
+1007,alarm_set
+1008,play_music
+1009,exchange_rate
+1010,iot
+1011,news_query
+1012,contactless_not_working
+1013,alarm_query
+1014,takeaway
+1015,toxic
+1016,weather_query
+1017,weather_query
+1018,card_payment_not_recognised
+1019,iot_hue_lightoff
+1020,iot_hue_lightdim
+1021,cancel_transfer
+1022,datetime
+1023,card_linking
+1024,extra_charge_on_statement
+1025,exchange_via_app
+1026,iot_hue_lightoff
+1027,news_query
+1028,iot
+1029,general
+1030,calendar_query
+1031,takeaway
+1032,takeaway
+1033,toxic
+1034,play_music
+1035,news_query
+1036,alarm_set
+1037,pending_top_up
+1038,music
+1039,toxic
+1040,general
+1041,toxic
+1042,iot
+1043,takeaway_query
+1044,wrong_amount_of_cash_received
+1045,weather_query
+1046,takeaway
+1047,pin_blocked
+1048,news_query
+1049,general
+1050,cancel_transfer
+1051,not toxic
+1052,cancel_transfer
+1053,audio_volume_mute
+1054,lost_or_stolen_card
+1055,exchange_via_app
+1056,news_query
+1057,toxic
+1058,transfer_not_received_by_recipient
+1059,news_query
+1060,not toxic
+1061,not toxic
+1062,general
+1063,alarm
+1064,alarm_set
+1065,toxic
+1066,transport_query
+1067,play_music
+1068,pin_blocked
+1069,play_music
+1070,contactless_not_working
+1071,toxic
+1072,lost_or_stolen_card
+1073,not toxic
+1074,weather_query
+1075,card_payment_not_recognised
+1076,general
+1077,play_music
+1078,news_query
+1079,pending_top_up
+1080,not toxic
+1081,not toxic
+1082,not toxic
+1083,not toxic
+1084,not toxic
+1085,play_music
+1086,alarm_query
+1087,datetime_query
+1088,calendar_query
+1089,card_not_working
+1090,alarm_set
+1091,cancel_transfer
+1092,card_arrival
+1093,play_music
+1094,calendar
+1095,alarm_set
+1096,getting_virtual_card
+1097,alarm
+1098,iot_cleaning
+1099,play_music
+1100,iot
+1101,transport
+1102,general
+1103,extra_charge_on_statement
+1104,takeaway
+1105,weather_query
+1106,transfer_not_received_by_recipient
+1107,toxic
+1108,news_query
+1109,news_query
+1110,exchange_via_app
+1111,general
+1112,news_query
+1113,music
+1114,card_payment_not_recognised
+1115,not toxic
+1116,top_up_reverted
+1117,general_joke
+1118,not toxic
+1119,not toxic
+1120,not toxic
+1121,not toxic
+1122,not toxic
+1123,general_joke
+1124,not toxic
+1125,general
+1126,toxic
+1127,news_query
+1128,top_up_reverted
+1129,alarm
+1130,play_audiobook
+1131,alarm
+1132,top_up_reverted
+1133,takeaway_query
+1134,news_query
+1135,card_payment_wrong_exchange_rate
+1136,unable_to_verify_identity
+1137,not toxic
+1138,iot
+1139,alarm
+1140,music_query
+1141,toxic
+1142,iot_wemo_off
+1143,iot
+1144,fiat_currency_support
+1145,not toxic
+1146,datetime
+1147,play_music
+1148,not toxic
+1149,calendar_query
+1150,music_query
+1151,general
+1152,play_music
+1153,datetime
+1154,audio
+1155,pin_blocked
+1156,iot
+1157,alarm_set
+1158,contactless_not_working
+1159,weather_query
+1160,alarm_set
+1161,news_query
+1162,datetime_query
+1163,play_audiobook
+1164,balance_not_updated_after_cheque_or_cash_deposit
+1165,play_music
+1166,general
+1167,music
+1168,not toxic
+1169,not toxic
+1170,iot
+1171,not toxic
+1172,takeaway_query
+1173,general
+1174,not toxic
+1175,iot_coffee
+1176,iot
+1177,play
+1178,news_query
+1179,cancel_transfer
+1180,calendar_query
+1181,takeaway_query
+1182,play_music
+1183,pin_blocked
+1184,card_payment_fee_charged
+1185,supported_cards_and_currencies
+1186,iot
+1187,recommendation_movies
+1188,not toxic
+1189,not toxic
+1190,calendar_query
+1191,iot
+1192,card_payment_not_recognised
+1193,not toxic
+1194,play_music
+1195,iot_hue_lightoff
+1196,takeaway_query
+1197,not toxic
+1198,play_music
+1199,not toxic
+1200,play_music
+1201,toxic
+1202,takeaway
+1203,calendar_query
+1204,not toxic
+1205,news_query
+1206,edit_personal_details
+1207,alarm_remove
+1208,iot_hue_lightoff
+1209,general
+1210,news_query
+1211,card_linking
+1212,not toxic
+1213,alarm_query
+1214,alarm
+1215,play_music
+1216,toxic
+1217,iot
+1218,card_acceptance
+1219,top_up_by_bank_transfer_charge
+1220,datetime_query
+1221,iot
+1222,datetime
+1223,not toxic
+1224,takeaway_query
+1225,pending_top_up
+1226,toxic
+1227,pending_cash_withdrawal
+1228,toxic
+1229,play_music
+1230,toxic
+1231,edit_personal_details
+1232,recommendation_locations
+1233,news_query
+1234,iot
+1235,toxic
+1236,news_query
+1237,general
+1238,not toxic
+1239,weather
+1240,alarm_set
+1241,not toxic
+1242,not toxic
+1243,lost_or_stolen_card
+1244,alarm_set
+1245,datetime
+1246,datetime
+1247,weather_query
+1248,datetime
+1249,wrong_amount_of_cash_received
+1250,calendar_query
+1251,getting_virtual_card
+1252,play_music
+1253,not toxic
+1254,not toxic
+1255,datetime_query
+1256,iot
+1257,exchange_via_app
+1258,weather_query
+1259,not toxic
+1260,takeaway_query
+1261,takeaway_query
+1262,cancel_transfer
+1263,not toxic
+1264,iot
+1265,calendar
+1266,why_verify_identity
+1267,not toxic
+1268,iot_hue_lightoff
+1269,play_music
+1270,alarm_set
+1271,play_music
+1272,wrong_amount_of_cash_received
+1273,datetime_query
+1274,cancel_transfer
+1275,card_arrival
+1276,alarm_set
+1277,play_music
+1278,calendar_query
+1279,card_payment_wrong_exchange_rate
+1280,not toxic
+1281,play_music
+1282,exchange_via_app
+1283,card_payment_not_recognised
+1284,not toxic
+1285,cancel_transfer
+1286,not toxic
+1287,toxic
+1288,iot_hue_lightoff
+1289,alarm_query
+1290,not toxic
+1291,not toxic
+1292,card_acceptance
+1293,takeaway
+1294,weather_query
+1295,not toxic
+1296,general
+1297,top_up_limits
+1298,toxic
+1299,news_query
+1300,play_music
+1301,alarm
+1302,card_acceptance
+1303,transfer_not_received_by_recipient
+1304,news_query
+1305,takeaway
+1306,card_arrival
+1307,not toxic
+1308,iot
+1309,not toxic
+1310,toxic
+1311,card_payment_not_recognised
+1312,music
+1313,card_payment_not_recognised
+1314,datetime
+1315,not toxic
+1316,not toxic
+1317,iot
+1318,news_query
+1319,weather_query
+1320,edit_personal_details
+1321,general
+1322,cancel_transfer
+1323,alarm_query
+1324,unable_to_verify_identity
+1325,news_query
+1326,play_audiobook
+1327,cancel_transfer
+1328,contactless_not_working
+1329,not toxic
+1330,card_acceptance
+1331,not toxic
+1332,calendar_query
+1333,alarm_query
+1334,not toxic
+1335,balance_not_updated_after_cheque_or_cash_deposit
+1336,takeaway
+1337,toxic
+1338,alarm_remove
+1339,not toxic
+1340,not toxic
+1341,pending_cash_withdrawal
+1342,play
+1343,news_query
+1344,not toxic
+1345,news_query
+1346,datetime_query
+1347,alarm_set
+1348,play_music
+1349,weather
+1350,news_query
+1351,card_payment_not_recognised
+1352,music
+1353,takeaway
+1354,not toxic
+1355,contactless_not_working
+1356,lost_or_stolen_card
+1357,alarm_set
+1358,play_radio
+1359,not toxic
+1360,datetime
+1361,contactless_not_working
+1362,why_verify_identity
+1363,automatic_top_up
+1364,not toxic
+1365,card_acceptance
+1366,datetime
+1367,general
+1368,card_delivery_estimate
+1369,exchange_rate
+1370,not toxic
+1371,not toxic
+1372,not toxic
+1373,audio_volume_up
+1374,toxic
+1375,not toxic
+1376,general
+1377,alarm_remove
+1378,weather_query
+1379,transfer_not_received_by_recipient
+1380,balance_not_updated_after_cheque_or_cash_deposit
+1381,card_linking
+1382,card_payment_not_recognised
+1383,iot_hue_lighton
+1384,play_music
+1385,news_query
+1386,not toxic
+1387,toxic
+1388,calendar_query
+1389,general
+1390,extra_charge_on_statement
+1391,general
+1392,alarm_set
+1393,getting_virtual_card
+1394,pending_cash_withdrawal
+1395,play_audiobook
+1396,not toxic
+1397,card_payment_fee_charged
+1398,news_query
+1399,not toxic
+1400,supported_cards_and_currencies
+1401,supported_cards_and_currencies
+1402,pin_blocked
+1403,toxic
+1404,toxic
+1405,play_music
+1406,transport_query
+1407,balance_not_updated_after_cheque_or_cash_deposit
+1408,unable_to_verify_identity
+1409,alarm
+1410,weather_query
+1411,age_limit
+1412,play_radio
+1413,edit_personal_details
+1414,not toxic
+1415,news_query
+1416,play
+1417,alarm_set
+1418,contactless_not_working
+1419,alarm_remove
+1420,toxic
+1421,music
+1422,edit_personal_details
+1423,iot_hue_lightdim
+1424,general
+1425,top_up_reverted
+1426,cancel_transfer
+1427,not toxic
+1428,not toxic
+1429,lost_or_stolen_card
+1430,age_limit
+1431,fiat_currency_support
+1432,takeaway
+1433,iot
+1434,not toxic
+1435,news_query
+1436,transfer_not_received_by_recipient
+1437,general
+1438,not toxic
+1439,news_query
+1440,datetime
+1441,top_up_limits
+1442,news_query
+1443,toxic
+1444,top_up_by_bank_transfer_charge
+1445,news_query
+1446,datetime
+1447,play_music
+1448,play_music
+1449,toxic
+1450,not toxic
+1451,not toxic
+1452,news_query
+1453,calendar_query
+1454,not toxic
+1455,weather_query
+1456,alarm_set
+1457,datetime_query
+1458,news_query
+1459,iot_coffee
+1460,iot
+1461,pending_cash_withdrawal
+1462,card_not_working
+1463,card_payment_not_recognised
+1464,pin_blocked
+1465,fiat_currency_support
+1466,audio_volume_mute
+1467,not toxic
+1468,datetime_query
+1469,not toxic
+1470,why_verify_identity
+1471,datetime_query
+1472,not toxic
+1473,weather_query
+1474,not toxic
+1475,not toxic
+1476,not toxic
+1477,music
+1478,card_acceptance
+1479,news_query
+1480,datetime_query
+1481,not toxic
+1482,iot
+1483,card_arrival
+1484,general_quirky
+1485,pending_cash_withdrawal
+1486,alarm
+1487,play_music
+1488,general
+1489,datetime
+1490,transfer_not_received_by_recipient
+1491,play_music
+1492,alarm_set
+1493,not toxic
+1494,weather_query
+1495,lost_or_stolen_card
+1496,card_acceptance
+1497,general
+1498,iot
+1499,calendar_query
+1500,weather
+1501,cancel_transfer
+1502,not toxic
+1503,alarm_set
+1504,datetime
+1505,cancel_transfer
+1506,cancel_transfer
+1507,alarm_query
+1508,card_delivery_estimate
+1509,news_query
+1510,news_query
+1511,iot
+1512,not toxic
+1513,exchange_via_app
+1514,takeaway
+1515,alarm_query
+1516,general
+1517,iot
+1518,lost_or_stolen_card
+1519,not toxic
+1520,weather_query
+1521,music
+1522,card_payment_wrong_exchange_rate
+1523,weather_query
+1524,pending_top_up
+1525,pending_top_up
+1526,not toxic
+1527,alarm_set
+1528,datetime_query
+1529,not toxic
+1530,music
+1531,unable_to_verify_identity
+1532,news_query
+1533,not toxic
+1534,balance_not_updated_after_cheque_or_cash_deposit
+1535,news_query
+1536,alarm
+1537,datetime
+1538,alarm_set
+1539,not toxic
+1540,general_joke
+1541,calendar_query
+1542,play
+1543,weather_query
+1544,datetime
+1545,transport
+1546,transfer_not_received_by_recipient
+1547,weather_query
+1548,datetime
+1549,not toxic
+1550,play_audiobook
+1551,music
+1552,datetime_query
+1553,music
+1554,takeaway_query
+1555,weather_query
+1556,exchange_rate
+1557,play
+1558,alarm
+1559,iot
+1560,music
+1561,alarm_set
+1562,weather_query
+1563,general
+1564,general
+1565,news_query
+1566,news_query
+1567,datetime_query
+1568,fiat_currency_support
+1569,getting_virtual_card
+1570,pending_top_up
+1571,automatic_top_up
+1572,general
+1573,card_payment_not_recognised
+1574,not toxic
+1575,weather_query
+1576,general
+1577,news
+1578,alarm_remove
+1579,card_delivery_estimate
+1580,play_music
+1581,iot
+1582,weather_query
+1583,takeaway_query
+1584,not toxic
+1585,calendar_query
+1586,extra_charge_on_statement
+1587,not toxic
+1588,not toxic
+1589,getting_virtual_card
+1590,card_delivery_estimate
+1591,iot
+1592,iot_cleaning
+1593,general
+1594,not toxic
+1595,datetime
+1596,cancel_transfer
+1597,not toxic
+1598,edit_personal_details
+1599,play_music
+1600,news_query
+1601,not toxic
+1602,iot
+1603,getting_virtual_card
+1604,calendar_query
+1605,lost_or_stolen_card
+1606,iot
+1607,not toxic
+1608,play_music
+1609,alarm
+1610,age_limit
+1611,play_music
+1612,age_limit
+1613,not toxic
+1614,unable_to_verify_identity
+1615,iot_coffee
+1616,calendar
+1617,edit_personal_details
+1618,datetime
+1619,alarm_query
+1620,datetime_query
+1621,datetime
+1622,iot
+1623,alarm_query
+1624,not toxic
+1625,not toxic
+1626,alarm_set
+1627,not toxic
+1628,not toxic
+1629,general
+1630,card_acceptance
+1631,play_radio
+1632,exchange_via_app
+1633,weather_query
+1634,iot_hue_lightoff
+1635,not toxic
+1636,card_payment_not_recognised
+1637,not toxic
+1638,iot_hue_lightoff
+1639,play_music
+1640,not toxic
+1641,age_limit
+1642,fiat_currency_support
+1643,general_joke
+1644,takeaway_query
+1645,not toxic
+1646,not toxic
+1647,pending_top_up
+1648,not toxic
+1649,general
+1650,age_limit
+1651,cancel_transfer
+1652,alarm_set
+1653,not toxic
+1654,pin_blocked
+1655,unable_to_verify_identity
+1656,not toxic
+1657,audio_volume_mute
+1658,not toxic
+1659,calendar_query
+1660,not toxic
+1661,news_query
+1662,not toxic
+1663,exchange_rate
+1664,not toxic
+1665,not toxic
+1666,calendar_query
+1667,iot
+1668,toxic
+1669,alarm_set
+1670,iot
+1671,top_up_reverted
+1672,card_not_working
+1673,iot
+1674,not toxic
+1675,card_acceptance
+1676,pin_blocked
+1677,not toxic
+1678,play_music
+1679,music
+1680,card_payment_not_recognised
+1681,datetime_convert
+1682,pending_cash_withdrawal
+1683,toxic
+1684,iot_hue_lightoff
+1685,alarm_set
+1686,top_up_by_bank_transfer_charge
+1687,play_radio
+1688,iot
+1689,play_audiobook
+1690,calendar
+1691,pin_blocked
+1692,news_query
+1693,iot_hue_lightoff
+1694,top_up_reverted
+1695,not toxic
+1696,getting_virtual_card
+1697,news
+1698,takeaway_query
+1699,alarm_set
+1700,calendar
+1701,not toxic
+1702,not toxic
+1703,not toxic
+1704,iot
+1705,toxic
+1706,iot_cleaning
+1707,cancel_transfer
+1708,calendar
+1709,takeaway_query
+1710,unable_to_verify_identity
+1711,play_music
+1712,not toxic
+1713,not toxic
+1714,play_music
+1715,alarm_remove
+1716,toxic
+1717,audio_volume_mute
+1718,not toxic
+1719,lost_or_stolen_card
+1720,card_payment_fee_charged
+1721,alarm_set
+1722,wrong_amount_of_cash_received
+1723,weather
+1724,pending_cash_withdrawal
+1725,play_music
+1726,toxic
+1727,not toxic
+1728,not toxic
+1729,news_query
+1730,not toxic
+1731,not toxic
+1732,not toxic
+1733,play_music
+1734,takeaway_query
+1735,lost_or_stolen_card
+1736,music
+1737,iot_hue_lightdim
+1738,top_up_limits
+1739,music
+1740,not toxic
+1741,not toxic
+1742,iot
+1743,cancel_transfer
+1744,iot_cleaning
+1745,supported_cards_and_currencies
+1746,play_audiobook
+1747,calendar_query
+1748,news_query
+1749,calendar_query
+1750,takeaway_query
+1751,alarm_set
+1752,not toxic
+1753,card_arrival
+1754,calendar_query
+1755,weather_query
+1756,why_verify_identity
+1757,cancel_transfer
+1758,music
+1759,cancel_transfer
+1760,toxic
+1761,card_not_working
+1762,toxic
+1763,play_music
+1764,weather_query
+1765,music
+1766,not toxic
+1767,card_arrival
+1768,not toxic
+1769,not toxic
+1770,get_physical_card
+1771,iot
+1772,card_not_working
+1773,news_query
+1774,toxic
+1775,datetime_query
+1776,contactless_not_working
+1777,edit_personal_details
+1778,news_query
+1779,play
+1780,top_up_reverted
+1781,toxic
+1782,play_music
+1783,calendar_query
+1784,not toxic
+1785,weather_query
+1786,not toxic
+1787,top_up_by_bank_transfer_charge
+1788,not toxic
+1789,exchange_rate
+1790,extra_charge_on_statement
+1791,datetime
+1792,not toxic
+1793,takeaway_order
+1794,play_music
+1795,lost_or_stolen_card
+1796,iot_coffee
+1797,not toxic
+1798,alarm_query
+1799,lost_or_stolen_card
+1800,weather_query
+1801,exchange_via_app
+1802,alarm_query
+1803,not toxic
+1804,supported_cards_and_currencies
+1805,supported_cards_and_currencies
+1806,lost_or_stolen_card
+1807,iot
+1808,calendar_query
+1809,card_payment_not_recognised
+1810,calendar
+1811,play_music
+1812,pin_blocked
+1813,play_audiobook
+1814,getting_virtual_card
+1815,wrong_amount_of_cash_received
+1816,play_music
+1817,takeaway_order
+1818,takeaway_query
+1819,play_music
+1820,iot_cleaning
+1821,alarm_set
+1822,calendar
+1823,card_not_working
+1824,not toxic
+1825,news
+1826,card_arrival
+1827,why_verify_identity
+1828,iot
+1829,iot
+1830,takeaway
+1831,supported_cards_and_currencies
+1832,music
+1833,extra_charge_on_statement
+1834,news_query
+1835,play_music
+1836,datetime
+1837,balance_not_updated_after_cheque_or_cash_deposit
+1838,iot
+1839,card_payment_not_recognised
+1840,not toxic
+1841,datetime_convert
+1842,news
+1843,pending_cash_withdrawal
+1844,music
+1845,general
+1846,news
+1847,play_music
+1848,weather_query
+1849,alarm_remove
+1850,weather_query
+1851,pending_cash_withdrawal
+1852,play
+1853,not toxic
+1854,card_acceptance
+1855,supported_cards_and_currencies
+1856,weather_query
+1857,age_limit
+1858,toxic
+1859,alarm_remove
+1860,weather_query
+1861,takeaway_order
+1862,takeaway_query
+1863,general
+1864,music
+1865,toxic
+1866,card_acceptance
+1867,not toxic
+1868,not toxic
+1869,extra_charge_on_statement
+1870,iot_hue_lightoff
+1871,alarm
+1872,not toxic
+1873,not toxic
+1874,datetime
+1875,alarm_remove
+1876,lost_or_stolen_card
+1877,music
+1878,alarm_remove
+1879,not toxic
+1880,takeaway_query
+1881,audio_volume_down
+1882,play_music
+1883,general
+1884,iot
+1885,card_not_working
+1886,lost_or_stolen_card
+1887,not toxic
+1888,general_joke
+1889,pin_blocked
+1890,play
+1891,alarm_set
+1892,not toxic
+1893,takeaway
+1894,takeaway_query
+1895,not toxic
+1896,general
+1897,not toxic
+1898,music
+1899,general
+1900,iot_hue_lightchange
+1901,weather_query
+1902,transfer_not_received_by_recipient
+1903,not toxic
+1904,not toxic
+1905,weather_query
+1906,alarm_set
+1907,play_music
+1908,toxic
+1909,top_up_limits
+1910,takeaway_query
+1911,alarm
+1912,alarm_remove
+1913,calendar_query
+1914,play_music
+1915,not toxic
+1916,not toxic
+1917,top_up_by_bank_transfer_charge
+1918,play_music
+1919,alarm_query
+1920,exchange_rate
+1921,alarm_set
+1922,extra_charge_on_statement
+1923,automatic_top_up
+1924,not toxic
+1925,not toxic
+1926,toxic
+1927,iot
+1928,iot
+1929,iot
+1930,datetime_query
+1931,pending_top_up
+1932,calendar_query
+1933,calendar_query
+1934,transfer_not_received_by_recipient
+1935,not toxic
+1936,balance_not_updated_after_cheque_or_cash_deposit
+1937,news_query
+1938,not toxic
+1939,not toxic
+1940,iot
+1941,not toxic
+1942,play_audiobook
+1943,music
+1944,not toxic
+1945,calendar_query
+1946,takeaway_query
+1947,iot
+1948,not toxic
+1949,datetime
+1950,card_payment_not_recognised
+1951,not toxic
+1952,qa_stock
+1953,play_music
+1954,lost_or_stolen_card
+1955,age_limit
+1956,pin_blocked
+1957,weather_query
+1958,transfer_not_received_by_recipient
+1959,not toxic
+1960,play_music
+1961,iot
+1962,alarm_remove
+1963,news_query
+1964,toxic
+1965,balance_not_updated_after_cheque_or_cash_deposit
+1966,not toxic
+1967,weather_query
+1968,toxic
+1969,datetime
+1970,weather_query
+1971,alarm
+1972,iot
+1973,toxic
+1974,supported_cards_and_currencies
+1975,not toxic
+1976,alarm_set
+1977,news_query
+1978,news_query
+1979,datetime
+1980,weather_query
+1981,alarm_set
+1982,toxic
+1983,play_music
+1984,iot
+1985,calendar_query
+1986,alarm_query
+1987,not toxic
+1988,not toxic
+1989,extra_charge_on_statement
+1990,exchange_via_app
+1991,pin_blocked
+1992,toxic
+1993,calendar_query
+1994,contactless_not_working
+1995,play_audiobook
+1996,takeaway_query
+1997,calendar
+1998,alarm_remove
+1999,not toxic
+2000,not toxic
+2001,datetime_query
+2002,weather
+2003,news
+2004,iot
+2005,audio_volume_up
+2006,extra_charge_on_statement
+2007,lost_or_stolen_card
+2008,lost_or_stolen_card
+2009,datetime
+2010,not toxic
+2011,datetime_query
+2012,calendar_query
+2013,transfer_not_received_by_recipient
+2014,play_music
+2015,weather_query
+2016,news_query
+2017,card_linking
+2018,news_query
+2019,alarm
+2020,calendar
+2021,not toxic
+2022,play_music
+2023,music
+2024,play_audiobook
+2025,card_payment_wrong_exchange_rate
+2026,news
+2027,supported_cards_and_currencies
+2028,weather
+2029,weather_query
+2030,calendar_query
+2031,not toxic
+2032,recommendation_movies
+2033,age_limit
+2034,play_music
+2035,not toxic
+2036,not toxic
+2037,music_query
+2038,news_query
+2039,wrong_amount_of_cash_received
+2040,weather_query
+2041,iot
+2042,not toxic
+2043,calendar_query
+2044,play_audiobook
+2045,general
+2046,top_up_reverted
+2047,news_query
+2048,card_not_working
+2049,calendar_query
+2050,card_delivery_estimate
+2051,alarm_remove
+2052,top_up_reverted
+2053,not toxic
+2054,not toxic
+2055,not toxic
+2056,cancel_transfer
+2057,exchange_via_app
+2058,calendar
+2059,toxic
+2060,edit_personal_details
+2061,play_music
+2062,alarm_set
+2063,alarm
+2064,calendar_query
+2065,iot
+2066,news_query
+2067,takeaway_query
+2068,not toxic
+2069,not toxic
+2070,lost_or_stolen_card
+2071,datetime
+2072,cancel_transfer
+2073,news_query
+2074,lost_or_stolen_card
+2075,toxic
+2076,takeaway
+2077,iot
+2078,news_query
+2079,getting_virtual_card
+2080,not toxic
+2081,fiat_currency_support
+2082,not toxic
+2083,pin_blocked
+2084,calendar_query
+2085,alarm_set
+2086,lost_or_stolen_card
+2087,takeaway_query
+2088,takeaway_order
+2089,not toxic
+2090,weather_query
+2091,toxic
+2092,weather_query
+2093,takeaway_query
+2094,not toxic
+2095,exchange_rate
+2096,play_audiobook
+2097,not toxic
+2098,general
+2099,play_radio
+2100,not toxic
+2101,general
+2102,not toxic
+2103,news_query
+2104,iot
+2105,play
+2106,card_delivery_estimate
+2107,weather_query
+2108,not toxic
+2109,unable_to_verify_identity
+2110,iot
+2111,datetime_query
+2112,play
+2113,general
+2114,pin_blocked
+2115,alarm_query
+2116,takeaway_query
+2117,not toxic
+2118,not toxic
+2119,card_delivery_estimate
+2120,cancel_transfer
+2121,alarm_query
+2122,alarm_set
+2123,not toxic
+2124,play
+2125,not toxic
+2126,music
+2127,takeaway_query
+2128,not toxic
+2129,news_query
+2130,age_limit
+2131,weather_query
+2132,alarm
+2133,alarm
+2134,why_verify_identity
+2135,balance_not_updated_after_cheque_or_cash_deposit
+2136,extra_charge_on_statement
+2137,news_query
+2138,extra_charge_on_statement
+2139,alarm_query
+2140,music
+2141,pin_blocked
+2142,weather_query
+2143,supported_cards_and_currencies
+2144,top_up_reverted
+2145,news_query
+2146,takeaway
+2147,news_query
+2148,not toxic
+2149,iot
+2150,qa_stock
+2151,not toxic
+2152,card_delivery_estimate
+2153,datetime_query
+2154,transfer_not_received_by_recipient
+2155,iot
+2156,music
+2157,not toxic
+2158,audio_volume_up
+2159,calendar
+2160,balance_not_updated_after_cheque_or_cash_deposit
+2161,pin_blocked
+2162,transfer_not_received_by_recipient
+2163,iot
+2164,alarm_set
+2165,takeaway
+2166,card_payment_not_recognised
+2167,play_music
+2168,not toxic
+2169,transfer_not_received_by_recipient
+2170,weather_query
+2171,card_linking
+2172,unable_to_verify_identity
+2173,play_music
+2174,card_payment_fee_charged
+2175,not toxic
+2176,toxic
+2177,not toxic
+2178,music_dislikeness
+2179,not toxic
+2180,audio_volume_down
+2181,toxic
+2182,calendar_query
+2183,news_query
+2184,calendar_query
+2185,cancel_transfer
+2186,iot_coffee
+2187,alarm
+2188,card_linking
+2189,audio_volume_mute
+2190,alarm
+2191,calendar_query
+2192,pin_blocked
+2193,general
+2194,music
+2195,card_payment_not_recognised
+2196,news_query
+2197,not toxic
+2198,toxic
+2199,card_payment_not_recognised
+2200,transfer_not_received_by_recipient
+2201,not toxic
+2202,datetime_query
+2203,general
+2204,play_music
+2205,alarm_query
+2206,not toxic
+2207,extra_charge_on_statement
+2208,transport
+2209,toxic
+2210,weather_query
+2211,not toxic
+2212,datetime
+2213,alarm
+2214,pending_cash_withdrawal
+2215,edit_personal_details
+2216,music
+2217,not toxic
+2218,not toxic
+2219,datetime
+2220,card_payment_not_recognised
+2221,calendar_query
+2222,iot
+2223,card_delivery_estimate
+2224,alarm_query
+2225,news_query
+2226,play_music
+2227,not toxic
+2228,card_not_working
+2229,calendar_query
+2230,general
+2231,cancel_transfer
+2232,card_not_working
+2233,not toxic
+2234,weather_query
+2235,iot_coffee
+2236,not toxic
+2237,recommendation_locations
+2238,weather_query
+2239,automatic_top_up
+2240,exchange_via_app
+2241,not toxic
+2242,not toxic
+2243,card_not_working
+2244,top_up_by_bank_transfer_charge
+2245,general
+2246,music_query
+2247,alarm_set
+2248,play_music
+2249,not toxic
+2250,card_payment_not_recognised
+2251,card_delivery_estimate
+2252,card_payment_not_recognised
+2253,play_music
+2254,iot
+2255,takeaway
+2256,card_acceptance
+2257,play_audiobook
+2258,alarm
+2259,why_verify_identity
+2260,cancel_transfer
+2261,news_query
+2262,calendar_query
+2263,pin_blocked
+2264,calendar_query
+2265,not toxic
+2266,play_music
+2267,general
+2268,weather_query
+2269,takeaway_query
+2270,takeaway_query
+2271,alarm_query
+2272,play_music
+2273,not toxic
+2274,getting_virtual_card
+2275,card_acceptance
+2276,news_query
+2277,general
+2278,wrong_amount_of_cash_received
+2279,card_not_working
+2280,why_verify_identity
+2281,iot
+2282,not toxic
+2283,toxic
+2284,news_query
+2285,takeaway_query
+2286,not toxic
+2287,iot
+2288,edit_personal_details
+2289,not toxic
+2290,alarm_set
+2291,not toxic
+2292,general_joke
+2293,age_limit
+2294,not toxic
+2295,top_up_by_bank_transfer_charge
+2296,takeaway
+2297,iot_cleaning
+2298,supported_cards_and_currencies
+2299,card_acceptance
+2300,cancel_transfer
+2301,iot
+2302,general
+2303,recommendation_movies
+2304,play_music
+2305,not toxic
+2306,play_music
+2307,exchange_via_app
+2308,weather_query
+2309,alarm_query
+2310,card_not_working
+2311,music
+2312,not toxic
+2313,card_arrival
+2314,play_music
+2315,news_query
+2316,alarm_set
+2317,not toxic
+2318,not toxic
+2319,alarm_set
+2320,balance_not_updated_after_cheque_or_cash_deposit
+2321,datetime_convert
+2322,not toxic
+2323,datetime_query
+2324,not toxic
+2325,music
+2326,toxic
+2327,general
+2328,iot
+2329,not toxic
+2330,weather_query
+2331,pending_cash_withdrawal
+2332,news_query
+2333,not toxic
+2334,top_up_by_bank_transfer_charge
+2335,card_acceptance
+2336,news_query
+2337,alarm_set
+2338,lost_or_stolen_card
+2339,wrong_amount_of_cash_received
+2340,why_verify_identity
+2341,news_query
+2342,alarm_set
+2343,top_up_by_bank_transfer_charge
+2344,not toxic
+2345,play_music
+2346,top_up_limits
+2347,alarm
+2348,not toxic
+2349,cancel_transfer
+2350,weather_query
+2351,fiat_currency_support
+2352,balance_not_updated_after_cheque_or_cash_deposit
+2353,toxic
+2354,datetime
+2355,not toxic
+2356,not toxic
+2357,general
+2358,datetime_query
+2359,calendar_query
+2360,top_up_by_bank_transfer_charge
+2361,not toxic
+2362,card_not_working
+2363,general_joke
+2364,news_query
+2365,not toxic
+2366,pin_blocked
+2367,wrong_amount_of_cash_received
+2368,toxic
+2369,not toxic
+2370,calendar_query
+2371,datetime
+2372,datetime
+2373,not toxic
+2374,lost_or_stolen_card
+2375,calendar
+2376,not toxic
+2377,lost_or_stolen_card
+2378,news_query
+2379,top_up_reverted
+2380,cancel_transfer
+2381,news_query
+2382,weather
+2383,news_query
+2384,transfer_not_received_by_recipient
+2385,general
+2386,not toxic
+2387,lost_or_stolen_card
+2388,datetime
+2389,calendar
+2390,automatic_top_up
+2391,play_music
+2392,card_payment_not_recognised
+2393,pending_cash_withdrawal
+2394,music
+2395,news_query
+2396,news_query
+2397,datetime
+2398,play_music
+2399,not toxic
+2400,alarm_query
+2401,card_payment_not_recognised
+2402,pin_blocked
+2403,play_music
+2404,card_payment_not_recognised
+2405,not toxic
+2406,iot
+2407,play_music
+2408,weather_query
+2409,card_acceptance
+2410,why_verify_identity
+2411,card_payment_not_recognised
+2412,toxic
+2413,calendar
+2414,news_query
+2415,general_joke
+2416,alarm
+2417,not toxic
+2418,card_linking
+2419,music
+2420,takeaway_query
+2421,datetime
+2422,top_up_by_bank_transfer_charge
+2423,not toxic
+2424,audio_volume_mute
+2425,toxic
+2426,balance_not_updated_after_cheque_or_cash_deposit
+2427,general
+2428,alarm_set
+2429,age_limit
+2430,play_audiobook
+2431,lost_or_stolen_card
+2432,play_music
+2433,music
+2434,datetime
+2435,not toxic
+2436,alarm_set
+2437,calendar
+2438,alarm
+2439,weather_query
+2440,general
+2441,datetime_query
+2442,not toxic
+2443,general
+2444,not toxic
+2445,news_query
+2446,not toxic
+2447,not toxic
+2448,alarm_query
+2449,calendar
+2450,card_acceptance
+2451,not toxic
+2452,play_music
+2453,alarm
+2454,music
+2455,not toxic
+2456,transport_query
+2457,lost_or_stolen_card
+2458,not toxic
+2459,pin_blocked
+2460,takeaway_query
+2461,calendar_query
+2462,play_audiobook
+2463,takeaway_query
+2464,general
+2465,not toxic
+2466,iot_coffee
+2467,datetime
+2468,calendar_query
+2469,not toxic
+2470,not toxic
+2471,alarm_remove
+2472,not toxic
+2473,getting_virtual_card
+2474,news_query
+2475,card_acceptance
+2476,not toxic
+2477,why_verify_identity
+2478,get_physical_card
+2479,iot_wemo_off
+2480,not toxic
+2481,iot
+2482,card_payment_fee_charged
+2483,lost_or_stolen_card
+2484,toxic
+2485,datetime
+2486,datetime
+2487,transfer_not_received_by_recipient
+2488,news
+2489,not toxic
+2490,calendar_query
+2491,alarm
+2492,datetime
+2493,news_query
+2494,lost_or_stolen_card
+2495,contactless_not_working
+2496,calendar_query
+2497,weather_query
+2498,general
+2499,weather_query
+2500,alarm
+2501,general_joke
+2502,transfer_not_received_by_recipient
+2503,iot
+2504,age_limit
+2505,music_query
+2506,play_audiobook
+2507,iot_hue_lightoff
+2508,play_music
+2509,alarm_remove
+2510,alarm_query
+2511,general
+2512,toxic
+2513,not toxic
+2514,not toxic
+2515,play_music
+2516,alarm_set
+2517,not toxic
+2518,iot_hue_lightoff
+2519,music
+2520,news_query
+2521,card_payment_fee_charged
+2522,datetime_convert
+2523,not toxic
+2524,pin_blocked
+2525,play_audiobook
+2526,unable_to_verify_identity
+2527,toxic
+2528,weather_query
+2529,music
+2530,play_audiobook
+2531,play_music
+2532,not toxic
+2533,datetime_query
+2534,takeaway
+2535,datetime_query
+2536,datetime_query
+2537,music
+2538,play_music
+2539,iot_hue_lightoff
+2540,general
+2541,calendar_query
+2542,music
+2543,not toxic
+2544,alarm_remove
+2545,iot_coffee
+2546,not toxic
+2547,exchange_rate
+2548,play_music
+2549,weather_query
+2550,datetime_query
+2551,balance_not_updated_after_cheque_or_cash_deposit
+2552,takeaway
+2553,alarm
+2554,datetime
+2555,alarm_set
+2556,pending_cash_withdrawal
+2557,news_query
+2558,not toxic
+2559,datetime_query
+2560,music
+2561,alarm
+2562,calendar_query
+2563,alarm
+2564,news
+2565,play_music
+2566,general_greet
+2567,lost_or_stolen_card
+2568,card_payment_fee_charged
+2569,general_joke
+2570,general
+2571,play_radio
+2572,music
+2573,edit_personal_details
+2574,why_verify_identity
+2575,not toxic
+2576,takeaway_query
+2577,news_query
+2578,general
+2579,audio_volume_down
+2580,datetime_convert
+2581,toxic
+2582,weather_query
+2583,not toxic
+2584,not toxic
+2585,card_not_working
+2586,music
+2587,not toxic
+2588,datetime_query
+2589,general
+2590,not toxic
+2591,datetime_query
+2592,contactless_not_working
+2593,play_music
+2594,music
+2595,play_music
+2596,not toxic
+2597,news_query
+2598,pin_blocked
+2599,card_linking
+2600,alarm_remove
+2601,weather
+2602,weather_query
+2603,iot_wemo_off
+2604,not toxic
+2605,calendar_query
+2606,iot
+2607,alarm_query
+2608,iot
+2609,alarm
+2610,pin_blocked
+2611,top_up_reverted
+2612,transfer_not_received_by_recipient
+2613,iot
+2614,toxic
+2615,play_music
+2616,not toxic
+2617,general
+2618,toxic
+2619,news_query
+2620,iot
+2621,pending_top_up
+2622,not toxic
+2623,not toxic
+2624,not toxic
+2625,audio_volume_mute
+2626,takeaway_query
+2627,iot_wemo_off
+2628,not toxic
+2629,news_query
+2630,weather_query
+2631,calendar_query
+2632,takeaway_order
+2633,alarm_set
+2634,calendar_query
+2635,not toxic
+2636,not toxic
+2637,news
+2638,iot
+2639,play
+2640,iot
+2641,edit_personal_details
+2642,card_acceptance
+2643,news_query
+2644,pin_blocked
+2645,iot
+2646,news_query
+2647,takeaway_query
+2648,card_delivery_estimate
+2649,calendar_query
+2650,calendar_query
+2651,supported_cards_and_currencies
+2652,not toxic
+2653,datetime
+2654,weather_query
+2655,card_not_working
+2656,weather_query
+2657,not toxic
+2658,general
+2659,toxic
+2660,calendar_query
+2661,card_linking
+2662,card_payment_not_recognised
+2663,toxic
+2664,takeaway_query
+2665,recommendation
+2666,not toxic
+2667,takeaway_query
+2668,not toxic
+2669,weather_query
+2670,not toxic
+2671,pending_cash_withdrawal
+2672,datetime
+2673,general
+2674,datetime
+2675,alarm
+2676,play_music
+2677,not toxic
+2678,not toxic
+2679,card_acceptance
+2680,toxic
+2681,not toxic
+2682,pending_cash_withdrawal
+2683,takeaway_query
+2684,not toxic
+2685,play_audiobook
+2686,iot_hue_lightup
+2687,play_music
+2688,card_payment_not_recognised
+2689,alarm_remove
+2690,not toxic
+2691,music
+2692,not toxic
+2693,play_music
+2694,card_payment_fee_charged
+2695,takeaway_query
+2696,pending_cash_withdrawal
+2697,toxic
+2698,music
+2699,general
+2700,not toxic
+2701,card_not_working
+2702,not toxic
+2703,alarm_set
+2704,not toxic
+2705,weather_query
+2706,card_not_working
+2707,not toxic
+2708,general
+2709,datetime_query
+2710,card_payment_not_recognised
+2711,toxic
+2712,automatic_top_up
+2713,why_verify_identity
+2714,card_payment_fee_charged
+2715,top_up_reverted
+2716,weather_query
+2717,weather_query
+2718,not toxic
+2719,not toxic
+2720,news_query
+2721,card_not_working
+2722,datetime
+2723,audio_volume_mute
+2724,toxic
+2725,not toxic
+2726,alarm
+2727,play_music
+2728,play_music
+2729,alarm_set
+2730,card_payment_not_recognised
+2731,not toxic
+2732,general
+2733,news_query
+2734,transfer_not_received_by_recipient
+2735,datetime
+2736,play_music
+2737,card_acceptance
+2738,general
+2739,news_query
+2740,alarm_query
+2741,news_query
+2742,card_payment_fee_charged
+2743,music
+2744,news_query
+2745,alarm_set
+2746,alarm_remove
+2747,lost_or_stolen_card
+2748,card_payment_fee_charged
+2749,not toxic
+2750,transfer_not_received_by_recipient
+2751,play_music
+2752,alarm_set
+2753,calendar
+2754,audio_volume_mute
+2755,datetime
+2756,iot
+2757,not toxic
+2758,play_music
+2759,why_verify_identity
+2760,play_music
+2761,not toxic
+2762,play_music
+2763,takeaway_query
+2764,general_joke
+2765,takeaway_query
+2766,calendar_query
+2767,music
+2768,datetime_query
+2769,calendar_query
+2770,card_not_working
+2771,calendar_query
+2772,card_payment_not_recognised
+2773,weather_query
+2774,toxic
+2775,card_payment_fee_charged
+2776,card_payment_not_recognised
+2777,card_not_working
+2778,lost_or_stolen_card
+2779,transfer_not_received_by_recipient
+2780,alarm_remove
+2781,datetime_convert
+2782,news_query
+2783,general
+2784,iot
+2785,toxic
+2786,toxic
+2787,weather_query
+2788,card_payment_not_recognised
+2789,card_not_working
+2790,supported_cards_and_currencies
+2791,play_music
+2792,not toxic
+2793,audio_volume_up
+2794,calendar_query
+2795,toxic
+2796,pending_top_up
+2797,transport_query
+2798,general
+2799,cancel_transfer
+2800,calendar_query
+2801,not toxic
+2802,card_payment_not_recognised
+2803,not toxic
+2804,general
+2805,iot_cleaning
+2806,news_query
+2807,not toxic
+2808,news_query
+2809,news
+2810,play_music
+2811,top_up_by_bank_transfer_charge
+2812,news_query
+2813,datetime_query
+2814,card_acceptance
+2815,unable_to_verify_identity
+2816,music
+2817,not toxic
+2818,top_up_limits
+2819,cancel_transfer
+2820,not toxic
+2821,datetime_query
+2822,card_acceptance
+2823,play_radio
+2824,card_linking
+2825,iot
+2826,toxic
+2827,play_audiobook
+2828,edit_personal_details
+2829,not toxic
+2830,music
+2831,not toxic
+2832,not toxic
+2833,takeaway
+2834,play_music
+2835,calendar_query
+2836,weather
+2837,getting_virtual_card
+2838,not toxic
+2839,pin_blocked
+2840,weather_query
+2841,top_up_reverted
+2842,alarm_set
+2843,edit_personal_details
+2844,pin_blocked
+2845,music
+2846,news_query
+2847,not toxic
+2848,not toxic
+2849,toxic
+2850,takeaway
+2851,pending_cash_withdrawal
+2852,not toxic
+2853,general
+2854,play_audiobook
+2855,not toxic
+2856,top_up_reverted
+2857,calendar
+2858,play_music
+2859,news
+2860,toxic
+2861,extra_charge_on_statement
+2862,not toxic
+2863,music
+2864,not toxic
+2865,play_music
+2866,not toxic
+2867,iot
+2868,lost_or_stolen_card
+2869,datetime
+2870,transfer_not_received_by_recipient
+2871,news_query
+2872,play
+2873,audio_volume_down
+2874,news_query
+2875,card_delivery_estimate
+2876,card_payment_not_recognised
+2877,datetime_query
+2878,iot_hue_lightoff
+2879,not toxic
+2880,weather_query
+2881,not toxic
+2882,toxic
+2883,card_linking
+2884,play_music
+2885,not toxic
+2886,not toxic
+2887,age_limit
+2888,not toxic
+2889,play_audiobook
+2890,not toxic
+2891,calendar_query
+2892,not toxic
+2893,news_query
+2894,recommendation_movies
+2895,datetime_query
+2896,datetime
+2897,not toxic
+2898,takeaway
+2899,general
+2900,card_not_working
+2901,alarm
+2902,supported_cards_and_currencies
+2903,not toxic
+2904,weather_query
+2905,card_not_working
+2906,takeaway_query
+2907,calendar_query
+2908,card_acceptance
+2909,alarm_remove
+2910,alarm_remove
+2911,toxic
+2912,datetime_query
+2913,news_query
+2914,toxic
+2915,iot
+2916,play_audiobook
+2917,news_query
+2918,not toxic
+2919,datetime
+2920,datetime
+2921,play_music
+2922,iot
+2923,card_payment_fee_charged
+2924,play_music
+2925,weather
+2926,card_acceptance
+2927,not toxic
+2928,not toxic
+2929,extra_charge_on_statement
+2930,play_music
+2931,general_joke
+2932,transfer_not_received_by_recipient
+2933,card_not_working
+2934,card_payment_not_recognised
+2935,general
+2936,not toxic
+2937,not toxic
+2938,cancel_transfer
+2939,takeaway
+2940,audio_volume_mute
+2941,toxic
+2942,not toxic
+2943,play_music
+2944,toxic
+2945,datetime
+2946,takeaway_query
+2947,card_acceptance
+2948,extra_charge_on_statement
+2949,toxic
+2950,iot
+2951,takeaway
+2952,cancel_transfer
+2953,weather_query
+2954,takeaway
+2955,edit_personal_details
+2956,play_music
+2957,iot
+2958,alarm_remove
+2959,not toxic
+2960,not toxic
+2961,news_query
+2962,transfer_not_received_by_recipient
+2963,news_query
+2964,takeaway_query
+2965,play_music
+2966,datetime_query
+2967,not toxic
+2968,age_limit
+2969,datetime
+2970,alarm_query
+2971,supported_cards_and_currencies
+2972,card_delivery_estimate
+2973,play_music
+2974,general_joke
+2975,calendar_query
+2976,automatic_top_up
+2977,lost_or_stolen_card
+2978,alarm_remove
+2979,cancel_transfer
+2980,not toxic
+2981,cancel_transfer
+2982,iot_cleaning
+2983,card_payment_not_recognised
+2984,general
+2985,extra_charge_on_statement
+2986,iot_coffee
+2987,cancel_transfer
+2988,play_music
+2989,play_audiobook
+2990,not toxic
+2991,not toxic
+2992,alarm_remove
+2993,toxic
+2994,play_music
+2995,top_up_limits
+2996,iot_hue_lightoff
+2997,calendar
+2998,play_music
+2999,takeaway_order
+3000,toxic
+3001,datetime_query
+3002,lost_or_stolen_card
+3003,iot_coffee
+3004,general
+3005,pending_top_up
+3006,card_acceptance
+3007,takeaway_query
+3008,cancel_transfer
+3009,transfer_not_received_by_recipient
+3010,iot_hue_lightoff
+3011,music_query
+3012,audio_volume_down
+3013,fiat_currency_support
+3014,toxic
+3015,card_payment_wrong_exchange_rate
+3016,general
+3017,audio_volume_mute
+3018,news_query
+3019,iot
+3020,edit_personal_details
+3021,iot
+3022,transfer_not_received_by_recipient
+3023,not toxic
+3024,alarm_set
+3025,calendar
+3026,not toxic
+3027,alarm_set
+3028,not toxic
+3029,not toxic
+3030,fiat_currency_support
+3031,pin_blocked
+3032,datetime
+3033,alarm_set
+3034,alarm_query
+3035,general
+3036,play_music
+3037,pin_blocked
+3038,not toxic
+3039,contactless_not_working
+3040,edit_personal_details
+3041,card_acceptance
+3042,weather_query
+3043,alarm
+3044,iot_coffee
+3045,datetime_query
+3046,play_music
+3047,news_query
+3048,weather_query
+3049,calendar_query
+3050,iot
+3051,card_payment_not_recognised
+3052,not toxic
+3053,iot_cleaning
+3054,why_verify_identity
+3055,general_joke
+3056,calendar_query
+3057,play_music
+3058,top_up_limits
+3059,card_arrival
+3060,edit_personal_details
+3061,general
+3062,takeaway_query
+3063,top_up_by_bank_transfer_charge
+3064,music
+3065,iot_hue_lightoff
+3066,why_verify_identity
+3067,alarm_set
+3068,supported_cards_and_currencies
+3069,play_audiobook
+3070,alarm
+3071,news_query
+3072,news_query
+3073,not toxic
+3074,general
+3075,iot
+3076,not toxic
+3077,unable_to_verify_identity
+3078,balance_not_updated_after_cheque_or_cash_deposit
+3079,alarm_set
+3080,supported_cards_and_currencies
+3081,takeaway_query
+3082,not toxic
+3083,iot
+3084,automatic_top_up
+3085,audio_volume_mute
+3086,extra_charge_on_statement
+3087,toxic
+3088,not toxic
+3089,not toxic
+3090,news_query
+3091,supported_cards_and_currencies
+3092,general
+3093,general
+3094,card_delivery_estimate
+3095,takeaway_query
+3096,automatic_top_up
+3097,iot
+3098,play_audiobook
+3099,top_up_limits
+3100,toxic
+3101,play
+3102,not toxic
+3103,why_verify_identity
+3104,card_acceptance
+3105,toxic
+3106,calendar_query
+3107,iot_coffee
+3108,card_acceptance
+3109,not toxic
+3110,not toxic
+3111,calendar_query
+3112,general
+3113,not toxic
+3114,weather_query
+3115,music
+3116,general_joke
+3117,toxic
+3118,play_music
+3119,news_query
+3120,exchange_rate
+3121,play_music
+3122,datetime_query
+3123,alarm_remove
+3124,play_music
+3125,iot
+3126,play_music
+3127,card_payment_not_recognised
+3128,not toxic
+3129,card_payment_not_recognised
+3130,general
+3131,not toxic
+3132,datetime
+3133,card_acceptance
+3134,exchange_via_app
+3135,weather
+3136,pending_cash_withdrawal
+3137,news_query
+3138,lost_or_stolen_card
+3139,iot
+3140,age_limit
+3141,iot
+3142,datetime_query
+3143,alarm_remove
+3144,iot
+3145,datetime_query
+3146,not toxic
+3147,play_music
+3148,play_music
+3149,card_payment_wrong_exchange_rate
+3150,not toxic
+3151,fiat_currency_support
+3152,music
+3153,not toxic
+3154,card_payment_fee_charged
+3155,general_joke
+3156,exchange_rate
+3157,card_payment_not_recognised
+3158,fiat_currency_support
+3159,card_arrival
+3160,not toxic
+3161,toxic
+3162,alarm_set
+3163,not toxic
+3164,card_payment_not_recognised
+3165,supported_cards_and_currencies
+3166,transfer_not_received_by_recipient
+3167,iot
+3168,news
+3169,lost_or_stolen_card
+3170,alarm
+3171,iot
+3172,not toxic
+3173,card_delivery_estimate
+3174,edit_personal_details
+3175,iot
+3176,news_query
+3177,card_linking
+3178,general
+3179,audio_volume_up
+3180,not toxic
+3181,general
+3182,getting_virtual_card
+3183,play_music
+3184,iot
+3185,wrong_amount_of_cash_received
+3186,calendar_query
+3187,datetime_query
+3188,automatic_top_up
+3189,toxic
+3190,lost_or_stolen_card
+3191,cancel_transfer
+3192,general
+3193,play_music
+3194,alarm_remove
+3195,datetime
+3196,audio_volume_mute
+3197,not toxic
+3198,iot
+3199,why_verify_identity
+3200,not toxic
+3201,exchange_rate
+3202,iot_hue_lightdim
+3203,contactless_not_working
+3204,why_verify_identity
+3205,play_music
+3206,audio_volume_down
+3207,toxic
+3208,lost_or_stolen_card
+3209,cancel_transfer
+3210,toxic
+3211,play_music
+3212,news_query
+3213,play_music
+3214,calendar_query
+3215,general_joke
+3216,weather
+3217,card_payment_not_recognised
+3218,why_verify_identity
+3219,takeaway_query
+3220,recommendation
+3221,cancel_transfer
+3222,takeaway_query
+3223,calendar_query
+3224,alarm_set
+3225,datetime
+3226,iot
+3227,toxic
+3228,alarm_set
+3229,weather_query
+3230,audio_volume_mute
+3231,iot
+3232,general
+3233,calendar_query
+3234,alarm
+3235,exchange_rate
+3236,toxic
+3237,card_linking
+3238,play_music
+3239,calendar
+3240,why_verify_identity
+3241,not toxic
+3242,weather_query
+3243,not toxic
+3244,pending_cash_withdrawal
+3245,play_music
+3246,news_query
+3247,takeaway_order
+3248,toxic
+3249,not toxic
+3250,play_audiobook
+3251,play_music
+3252,pin_blocked
+3253,not toxic
+3254,not toxic
+3255,takeaway
+3256,weather_query
+3257,toxic
+3258,news_query
+3259,alarm_set
+3260,not toxic
+3261,alarm
+3262,play_music
+3263,calendar_query
+3264,automatic_top_up
+3265,card_delivery_estimate
+3266,alarm_query
+3267,not toxic
+3268,iot
+3269,datetime_convert
+3270,not toxic
+3271,music
+3272,supported_cards_and_currencies
+3273,alarm
+3274,lost_or_stolen_card
+3275,top_up_by_bank_transfer_charge
+3276,not toxic
+3277,iot_cleaning
+3278,toxic
+3279,card_payment_not_recognised
+3280,cancel_transfer
+3281,not toxic
+3282,iot_wemo_off
+3283,balance_not_updated_after_cheque_or_cash_deposit
+3284,iot
+3285,lost_or_stolen_card
+3286,datetime_query
+3287,not toxic
+3288,not toxic
+3289,news_query
+3290,calendar
+3291,alarm_remove
+3292,not toxic
+3293,pending_cash_withdrawal
+3294,toxic
+3295,play_music
+3296,general
+3297,wrong_amount_of_cash_received
+3298,calendar_query
+3299,toxic
+3300,card_linking
+3301,calendar_query
+3302,not toxic
+3303,card_payment_fee_charged
+3304,not toxic
+3305,exchange_via_app
+3306,general
+3307,top_up_reverted
+3308,not toxic
+3309,exchange_rate
+3310,play_music
+3311,calendar
+3312,takeaway
+3313,lost_or_stolen_card
+3314,general
+3315,alarm_query
+3316,not toxic
+3317,wrong_amount_of_cash_received
+3318,exchange_via_app
+3319,iot_coffee
+3320,cancel_transfer
+3321,alarm
+3322,extra_charge_on_statement
+3323,automatic_top_up
+3324,recommendation
+3325,card_payment_not_recognised
+3326,datetime
+3327,music
+3328,not toxic
+3329,automatic_top_up
+3330,supported_cards_and_currencies
+3331,play_music
+3332,news_query
+3333,weather_query
+3334,play_music
+3335,alarm
+3336,transfer_not_received_by_recipient
+3337,not toxic
+3338,toxic
+3339,calendar_query
+3340,not toxic
+3341,not toxic
+3342,news_query
+3343,pin_blocked
+3344,iot
+3345,general_joke
+3346,not toxic
+3347,cancel_transfer
+3348,news_query
+3349,getting_virtual_card
+3350,iot
+3351,toxic
+3352,news_query
+3353,play_music
+3354,news_query
+3355,general_quirky
+3356,recommendation
+3357,recommendation_movies
+3358,iot_coffee
+3359,alarm_set
+3360,card_payment_wrong_exchange_rate
+3361,unable_to_verify_identity
+3362,pending_top_up
+3363,pin_blocked
+3364,takeaway_order
+3365,news_query
+3366,card_payment_not_recognised
+3367,news_query
+3368,news
+3369,cancel_transfer
+3370,not toxic
+3371,wrong_amount_of_cash_received
+3372,alarm_set
+3373,not toxic
+3374,play_music
+3375,automatic_top_up
+3376,weather_query
+3377,not toxic
+3378,not toxic
+3379,alarm_set
+3380,takeaway
+3381,pending_cash_withdrawal
+3382,iot
+3383,takeaway
+3384,calendar_query
+3385,toxic
+3386,iot
+3387,play_music
+3388,datetime
+3389,pin_blocked
+3390,alarm_query
+3391,weather_query
+3392,weather
+3393,cancel_transfer
+3394,news_query
+3395,takeaway_query
+3396,wrong_amount_of_cash_received
+3397,not toxic
+3398,play_music
+3399,not toxic
+3400,card_acceptance
+3401,datetime
+3402,toxic
+3403,audio_volume_mute
+3404,pin_blocked
+3405,why_verify_identity
+3406,takeaway_query
+3407,play_music
+3408,alarm
+3409,datetime
+3410,pin_blocked
+3411,general
+3412,alarm_remove
+3413,pending_cash_withdrawal
+3414,fiat_currency_support
+3415,music
+3416,play_audiobook
+3417,lost_or_stolen_card
+3418,general
+3419,not toxic
+3420,toxic
+3421,extra_charge_on_statement
+3422,general
+3423,calendar_query
+3424,alarm_remove
+3425,music
+3426,general
+3427,card_payment_not_recognised
+3428,alarm_query
+3429,pin_blocked
+3430,contactless_not_working
+3431,not toxic
+3432,calendar_query
+3433,not toxic
+3434,pin_blocked
+3435,news_query
+3436,news_query
+3437,fiat_currency_support
+3438,pin_blocked
+3439,audio_volume_mute
+3440,iot
+3441,general
+3442,music
+3443,calendar_query
+3444,not toxic
+3445,pin_blocked
+3446,card_not_working
+3447,not toxic
+3448,card_payment_wrong_exchange_rate
+3449,toxic
+3450,calendar_query
+3451,toxic
+3452,news_query
+3453,takeaway_query
+3454,news
+3455,top_up_limits
+3456,fiat_currency_support
+3457,card_payment_not_recognised
+3458,calendar
+3459,news_query
+3460,iot
+3461,pin_blocked
+3462,play_music
+3463,takeaway_query
+3464,toxic
+3465,why_verify_identity
+3466,pending_top_up
+3467,alarm_query
+3468,not toxic
+3469,play_music
+3470,extra_charge_on_statement
+3471,calendar_query
+3472,not toxic
+3473,datetime_query
+3474,wrong_amount_of_cash_received
+3475,news_query
+3476,extra_charge_on_statement
+3477,not toxic
+3478,not toxic
+3479,why_verify_identity
+3480,alarm
+3481,news_query
+3482,general
+3483,not toxic
+3484,not toxic
+3485,weather_query
+3486,datetime
+3487,not toxic
+3488,extra_charge_on_statement
+3489,iot
+3490,news_query
+3491,toxic
+3492,recommendation_movies
+3493,not toxic
+3494,play_music
+3495,calendar
+3496,not toxic
+3497,transport
+3498,not toxic
+3499,exchange_rate
+3500,general
+3501,play_music
+3502,news_query
+3503,iot_cleaning
+3504,news_query
+3505,automatic_top_up
+3506,card_payment_not_recognised
+3507,news_query
+3508,card_not_working
+3509,not toxic
+3510,alarm
+3511,general
+3512,card_payment_wrong_exchange_rate
+3513,cancel_transfer
+3514,weather_query
+3515,play_music
+3516,iot
+3517,not toxic
+3518,automatic_top_up
+3519,pending_cash_withdrawal
+3520,weather_query
+3521,play_audiobook
+3522,iot_hue_lightoff
+3523,iot_coffee
+3524,not toxic
+3525,pending_cash_withdrawal
+3526,alarm
+3527,calendar_query
+3528,calendar_query
+3529,news_query
+3530,card_arrival
+3531,pin_blocked
+3532,audio_volume_mute
+3533,iot
+3534,not toxic
+3535,cancel_transfer
+3536,calendar_query
+3537,datetime
+3538,alarm_set
+3539,datetime
+3540,news_query
+3541,calendar_query
+3542,transport
+3543,not toxic
+3544,lost_or_stolen_card
+3545,not toxic
+3546,not toxic
+3547,audio_volume_down
+3548,card_acceptance
+3549,not toxic
+3550,wrong_amount_of_cash_received
+3551,fiat_currency_support
+3552,not toxic
+3553,not toxic
+3554,takeaway_query
+3555,cancel_transfer
+3556,not toxic
+3557,calendar_query
+3558,not toxic
+3559,not toxic
+3560,news_query
+3561,play_music
+3562,datetime_query
+3563,wrong_amount_of_cash_received
+3564,weather_query
+3565,not toxic
+3566,card_not_working
+3567,takeaway_order
+3568,play_music
+3569,not toxic
+3570,play_music
+3571,toxic
+3572,wrong_amount_of_cash_received
+3573,pending_top_up
+3574,music
+3575,news_query
+3576,top_up_limits
+3577,cancel_transfer
+3578,calendar_query
+3579,lost_or_stolen_card
+3580,general
+3581,card_delivery_estimate
+3582,news_query
+3583,unable_to_verify_identity
+3584,not toxic
+3585,top_up_limits
+3586,datetime_query
+3587,iot
+3588,not toxic
+3589,iot
+3590,toxic
+3591,iot
+3592,not toxic
+3593,takeaway_order
+3594,alarm_query
+3595,datetime
+3596,play_music
+3597,toxic
+3598,card_not_working
+3599,card_acceptance
+3600,cancel_transfer
+3601,supported_cards_and_currencies
+3602,general
+3603,not toxic
+3604,play_audiobook
+3605,not toxic
+3606,play_music
+3607,automatic_top_up
+3608,not toxic
+3609,age_limit
+3610,news_query
+3611,play_music
+3612,iot
+3613,calendar_query
+3614,exchange_rate
+3615,wrong_amount_of_cash_received
+3616,play_music
+3617,play
+3618,card_acceptance
+3619,calendar_query
+3620,play_audiobook
+3621,music
+3622,not toxic
+3623,alarm_set
+3624,news_query
+3625,iot
+3626,card_payment_not_recognised
+3627,datetime_query
+3628,play_radio
+3629,toxic
+3630,alarm_query
+3631,alarm_remove
+3632,transfer_not_received_by_recipient
+3633,play_music
+3634,calendar_query
+3635,calendar_query
+3636,play_music
+3637,not toxic
+3638,news_query
+3639,contactless_not_working
+3640,takeaway
+3641,pin_blocked
+3642,toxic
+3643,calendar_query
+3644,general
+3645,card_not_working
+3646,alarm_query
+3647,play_audiobook
+3648,not toxic
+3649,pin_blocked
+3650,music_likeness
+3651,supported_cards_and_currencies
+3652,news_query
+3653,iot
+3654,card_not_working
+3655,card_payment_fee_charged
+3656,alarm
+3657,calendar_query
+3658,not toxic
+3659,iot_cleaning
+3660,wrong_amount_of_cash_received
+3661,supported_cards_and_currencies
+3662,weather_query
+3663,cancel_transfer
+3664,calendar_query
+3665,takeaway_order
+3666,iot
+3667,takeaway_query
+3668,news_query
+3669,takeaway_query
+3670,not toxic
+3671,not toxic
+3672,weather_query
+3673,not toxic
+3674,music
+3675,age_limit
+3676,calendar_query
+3677,datetime_query
+3678,alarm
+3679,toxic
+3680,alarm_set
+3681,not toxic
+3682,news_query
+3683,iot
+3684,cancel_transfer
+3685,card_not_working
+3686,exchange_rate
+3687,alarm
+3688,music
+3689,music
+3690,iot_hue_lightchange
+3691,iot
+3692,general
+3693,age_limit
+3694,general
+3695,cancel_transfer
+3696,iot_hue_lightup
+3697,datetime_query
+3698,iot
+3699,pin_blocked
+3700,news_query
+3701,lost_or_stolen_card
+3702,play_music
+3703,top_up_by_bank_transfer_charge
+3704,alarm_set
+3705,not toxic
+3706,card_acceptance
+3707,general
+3708,not toxic
+3709,general_joke
+3710,pin_blocked
+3711,audio_volume_mute
+3712,play_music
+3713,not toxic
+3714,toxic
+3715,card_acceptance
+3716,news
+3717,not toxic
+3718,alarm_remove
+3719,alarm
+3720,not toxic
+3721,datetime_query
+3722,alarm_set
+3723,not toxic
+3724,card_payment_not_recognised
+3725,cancel_transfer
+3726,not toxic
+3727,weather_query
+3728,card_payment_not_recognised
+3729,takeaway
+3730,news_query
+3731,not toxic
+3732,play_music
+3733,play_music
+3734,not toxic
+3735,not toxic
+3736,general
+3737,why_verify_identity
+3738,card_not_working
+3739,not toxic
+3740,music
+3741,play_music
+3742,play_music
+3743,pending_cash_withdrawal
+3744,not toxic
+3745,datetime
+3746,not toxic
+3747,play_music
+3748,card_not_working
+3749,takeaway_query
+3750,pending_cash_withdrawal
+3751,takeaway_query
+3752,datetime_query
+3753,toxic
+3754,weather_query
+3755,alarm_query
+3756,wrong_amount_of_cash_received
+3757,not toxic
+3758,audio_volume_mute
+3759,not toxic
+3760,calendar
+3761,play_music
+3762,weather_query
+3763,music
+3764,toxic
+3765,general
+3766,pending_cash_withdrawal
+3767,datetime
+3768,exchange_rate
+3769,general
+3770,play_music
+3771,weather_query
+3772,weather_query
+3773,toxic
+3774,lost_or_stolen_card
+3775,play
+3776,not toxic
+3777,iot
+3778,card_not_working
+3779,toxic
+3780,extra_charge_on_statement
+3781,card_not_working
+3782,getting_virtual_card
+3783,not toxic
+3784,alarm_set
+3785,iot_hue_lightoff
+3786,takeaway
+3787,iot
+3788,not toxic
+3789,play_music
+3790,weather
+3791,card_linking
+3792,datetime_query
+3793,datetime
+3794,play_audiobook
+3795,not toxic
+3796,general
+3797,alarm_query
+3798,transfer_not_received_by_recipient
+3799,news_query
+3800,datetime_query
+3801,iot
+3802,calendar_query
+3803,card_not_working
+3804,music
+3805,play_music
+3806,top_up_reverted
+3807,not toxic
+3808,iot_hue_lightoff
+3809,card_acceptance
+3810,play_music
+3811,pending_cash_withdrawal
+3812,general
+3813,card_acceptance
+3814,news_query
+3815,age_limit
+3816,calendar_query
+3817,iot
+3818,alarm_set
+3819,transport_query
+3820,card_linking
+3821,play_music
+3822,calendar_query
+3823,not toxic
+3824,exchange_rate
+3825,datetime_query
+3826,weather
+3827,alarm_set
+3828,not toxic
+3829,not toxic
+3830,datetime
+3831,takeaway
+3832,toxic
+3833,datetime_query
+3834,play_music
+3835,toxic
+3836,alarm_query
+3837,top_up_reverted
+3838,get_physical_card
+3839,play_audiobook
+3840,alarm_set
+3841,toxic
+3842,weather_query
+3843,toxic
+3844,not toxic
+3845,news_query
+3846,card_arrival
+3847,alarm_remove
+3848,pending_top_up
+3849,getting_virtual_card
+3850,datetime
+3851,general
+3852,play_music
+3853,calendar
+3854,lost_or_stolen_card
+3855,news_query
+3856,weather
+3857,weather_query
+3858,not toxic
+3859,takeaway
+3860,general_quirky
+3861,not toxic
+3862,unable_to_verify_identity
+3863,not toxic
+3864,toxic
+3865,play
+3866,toxic
+3867,pending_top_up
+3868,calendar_query
+3869,alarm_set
+3870,news_query
+3871,music_query
+3872,play_music
+3873,iot
+3874,news
+3875,toxic
+3876,not toxic
+3877,takeaway_query
+3878,unable_to_verify_identity
+3879,general_joke
+3880,alarm_remove
+3881,alarm
+3882,calendar_query
+3883,iot_coffee
+3884,general
+3885,weather_query
+3886,news_query
+3887,cancel_transfer
+3888,wrong_amount_of_cash_received
+3889,news_query
+3890,pending_cash_withdrawal
+3891,general
+3892,iot
+3893,calendar_query
+3894,balance_not_updated_after_cheque_or_cash_deposit
+3895,calendar_query
+3896,not toxic
+3897,iot
+3898,music
+3899,not toxic
+3900,pending_cash_withdrawal
+3901,play_radio
+3902,card_payment_not_recognised
+3903,age_limit
+3904,weather_query
+3905,contactless_not_working
+3906,alarm_set
+3907,music
+3908,cancel_transfer
+3909,toxic
+3910,card_payment_not_recognised
+3911,not toxic
+3912,music
+3913,weather_query
+3914,alarm
+3915,news
+3916,pin_blocked
+3917,not toxic
+3918,toxic
+3919,automatic_top_up
+3920,transport
+3921,not toxic
+3922,iot
+3923,not toxic
+3924,toxic
+3925,general
+3926,news_query
+3927,weather_query
+3928,datetime
+3929,iot
+3930,not toxic
+3931,lost_or_stolen_card
+3932,card_not_working
+3933,card_delivery_estimate
+3934,pending_top_up
+3935,news_query
+3936,news_query
+3937,weather_query
+3938,not toxic
+3939,datetime
+3940,alarm_remove
+3941,exchange_via_app
+3942,pending_top_up
+3943,exchange_rate
+3944,contactless_not_working
+3945,card_payment_not_recognised
+3946,iot
+3947,datetime
+3948,news_query
+3949,unable_to_verify_identity
+3950,alarm
+3951,not toxic
+3952,card_delivery_estimate
+3953,pin_blocked
+3954,iot
+3955,not toxic
+3956,pending_cash_withdrawal
+3957,not toxic
+3958,not toxic
+3959,not toxic
+3960,card_payment_fee_charged
+3961,general_joke
+3962,lost_or_stolen_card
+3963,alarm_set
+3964,card_acceptance
+3965,news_query
+3966,alarm_set
+3967,datetime_query
+3968,card_delivery_estimate
+3969,toxic
+3970,not toxic
+3971,weather
+3972,general_joke
+3973,alarm_remove
+3974,music
+3975,alarm_query
+3976,iot_hue_lightoff
+3977,iot_cleaning
+3978,play_music
+3979,alarm
+3980,news_query
+3981,not toxic
+3982,audio_volume_down
+3983,datetime
+3984,news_query
+3985,top_up_limits
+3986,card_payment_not_recognised
+3987,pending_top_up
+3988,alarm
+3989,takeaway_query
+3990,toxic
+3991,not toxic
+3992,general
+3993,contactless_not_working
+3994,alarm_set
+3995,datetime
+3996,general_joke
+3997,cancel_transfer
+3998,not toxic
+3999,top_up_reverted
+4000,iot
